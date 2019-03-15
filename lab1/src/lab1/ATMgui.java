@@ -21,7 +21,7 @@ public class ATMgui extends JFrame {
     JButton withdraw = new JButton("Withdraw");
     JButton deposit = new JButton("deposit");
     JButton balance = new JButton("balance");
-    JButton prev = new JButton("prev");
+    JButton prev = new JButton("previous");
     JButton next = new JButton("next");
 
     JLabel label = new JLabel("label");
